@@ -1,8 +1,8 @@
 # InsiderChallenge
 Scenario:
-“After Karen started working for ‘TAAUSAI,’ she began to do some illegal activities inside the company. ‘TAAUSAI’ hired you as a soc analyst to kick off an investigation on this case.
+After Karen started working for ‘TAAUSAI,’ she began to do some illegal activities inside the company. ‘TAAUSAI’ hired you as a soc analyst to kick off an investigation on this case.
 
-You acquired a disk image and found that Karen uses Linux OS on her machine. Analyze the disk image of Karen’s computer and answer the provided questions.”
+You acquired a disk image and found that Karen uses Linux OS on her machine. Analyze the disk image of Karen’s computer and answer the provided questions.
 
 An essential tool we use in disk analysis is FTK imager, and that’s the tool we will need today to start the investigation.
 
