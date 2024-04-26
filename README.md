@@ -5,6 +5,7 @@ Scenario:
 You acquired a disk image and found that Karen uses Linux OS on her machine. Analyze the disk image of Karen’s computer and answer the provided questions.”
 
 An essential tool we use in disk analysis is FTK imager, and that’s the tool we will need today to start the investigation.
+
 Q1. What distribution of Linux is being used on this machine?
 
 Kali
