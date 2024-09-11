@@ -1,4 +1,4 @@
-# InsiderChallenge
+# InsiderChallenge: CyberDefenders
 Scenario:
 After Karen started working for ‘TAAUSAI,’ she began to do some illegal activities inside the company. ‘TAAUSAI’ hired you as a soc analyst to kick off an investigation on this case.
 
